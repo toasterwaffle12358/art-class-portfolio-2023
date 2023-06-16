@@ -435,26 +435,16 @@ a.topbarlink {
     width: 100%;
 }
 #extracreditheader {
-    font-size: 8vw;
-    text-align: center;
+    font-size: 1vw;
+    text-align: left;
     width: 100%;
-    margin: none;
-    padding: none;
 }
 #extracreditmain {
-    padding: 3%;
-    font-size: 3vw;
-    margin: none;
+    padding: 0%;
+    font-size: 2vw;
 }
 #extracreditheadertext {
-    margin: none;
-    font-size: 8vw;
-    padding: none;
-}
-#extracreditheader {
-    position: absolute;
-    left: 0px;
-    margin-left: 0px;
+    font-size: 7vw;
 }
 #conclusionheader {
     margin-top: 100px;
@@ -516,4 +506,14 @@ a.topbarlink {
     border-top: none;
     border-left: none;
     border-right: none;
+}
+#questionsheader {
+    font-size: 8vw;
+}
+.growthanswer {
+    max-width: 50%;
+}
+#codemessage {
+    margin-left: 5vw;
+    font-size: 3vw;
 }
